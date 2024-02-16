@@ -1,0 +1,30 @@
+.container{
+    height: 500px;
+    width: 500px;
+    /* display: flex;
+    justify-content: space-between; */
+    background-color: antiquewhite;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.head1{
+    text-decoration: none;
+    color: black;
+}
+.head1:hover{
+    color: red;
+}
+.head2{
+    text-decoration: none;
+    color: black;
+}
+.head2:hover{
+    color: red;
+}
+.buttonColor{
+    background-color: #b14924;
+}
